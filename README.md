@@ -1,4 +1,3 @@
-```markdown
 # Attrition and Department Classification Model
 
 This project involves building a neural network model to predict employee attrition and department based on various features. The model uses data from a company to classify whether an employee will leave the company and which department they belong to.
@@ -26,7 +25,6 @@ Install the required packages:
 
 ```bash
 pip install pandas tensorflow scikit-learn
-```
 
 ## Usage
 
