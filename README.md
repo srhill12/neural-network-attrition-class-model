@@ -227,11 +227,8 @@ For the Department output layer, I chose softmax because it ensured that the sum
 6. **Advanced Models**: Use more advanced models like Gradient Boosting, XGBoost, or neural network architectures like LSTM or GRU if applicable.
 
 ### Sources
-- Activities from Module 18 and Xpert Learning Assistant for README formatting suggestions.
+- Activities from Modules 18 and 19, particularly Day 3 Ex 04. Xpert Learning Assistant for README formatting suggestions.
 
 ### Conclusion
 This project demonstrates the application of deep learning for predicting employee attrition and department classification, providing a foundation for further improvements and applications in HR analytics.
 ```
-
-# Determine unique values in each column
-attrition_df.nunique()
