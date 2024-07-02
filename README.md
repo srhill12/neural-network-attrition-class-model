@@ -208,7 +208,7 @@ predictions = model.predict(X_test_scaled)
 ```
 
 ### Results
-The model achieved an accuracy of approximately 54.3% for department predictions and 76.9% for attrition predictions on the test data.
+The model achieved an accuracy of approximately 48.6% for department predictions and 81% for attrition predictions on the test data.
 
 ### Discussion
 
