@@ -26,6 +26,7 @@ Install the required packages:
 ```bash
 pip install pandas tensorflow scikit-learn
 
+```
 ## Usage
 
 To run the project, follow the steps below:
